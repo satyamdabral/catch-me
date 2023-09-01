@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    background-color: yellow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+  }
+  
+  #btnCatch {
+    padding: 10px 20px;
+    background-color: purple;
+    color: white;
+    border: none;
+    cursor: pointer;
+    position: absolute;
+  }
+  
+  
